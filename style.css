@@ -1,7 +1,13 @@
-body{
-	background: url("http://www.shximai.com/data/out/176/67085840-skin-wallpapers.jpg");
-}
 .leo{
 	padding-top: 200px;
 	font-family: 'Fresca', sans-serif;
+	color: #FFF;
+	padding-left: 200px;
+}
+html { 
+  background: url('l.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
